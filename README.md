@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alula Gebreegziabher
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently My Masters in Data Science
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me https://www.linkedin.com/in/alula-gebreegziabher-883150203
 
